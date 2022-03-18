@@ -25,19 +25,12 @@
  - 👣 Here are the steps we followed in this notebook :
 
  1️⃣  **`Setup`**
-
  2️⃣  **`Series objects`**
-
 > 2️⃣.1️⃣  **`Creating a Series`**
-
 > 2️⃣.2️⃣  **`Series are similar to a 1D ndarray!`**
-
 > 2️⃣.3️⃣  **`Index labels`**
-
 > 2️⃣.4️⃣  **`Init from dict`**
-
 > 2️⃣.5️⃣  **`Automatic alignment`**
-
 > 2️⃣.6️⃣  **` Init with a scalar`**
 
 > 2️⃣.7️⃣  **`Series name`**
