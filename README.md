@@ -17,7 +17,7 @@
  1️⃣  **`Setup`**
  
 
- 2️⃣  **`Series`** objects
+ 2️⃣  **`Series objects`** 
 
 > 2️⃣1️⃣  **`Creating`** a Series
 
@@ -48,7 +48,7 @@
 > 2️⃣1️⃣4️⃣  **`Periods`** 
 
 
-3️⃣  **`DataFrame`** objects
+3️⃣  **`DataFrame objects`** 
 
 > 3️⃣1️⃣  **`Creating`** a Dataframe                     
 
