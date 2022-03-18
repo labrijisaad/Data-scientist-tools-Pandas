@@ -1,7 +1,7 @@
 ## 🛠️   Data scientist tools - `Pandas` :
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74627083/157457233-29354868-6e5a-4079-848e-c510af92ca58.jpg" />
+  <img src="https://user-images.githubusercontent.com/74627083/159094747-0d224ce3-ef85-4964-bd76-3fae62523a3f.png" />
 </p>
 
 - 🎯 In this **`hands-on training notebook`**, we'll see the most important features of the `Pandas` library used for `data science`/`data analysis` and machine learning tasks in **`Python`**.
